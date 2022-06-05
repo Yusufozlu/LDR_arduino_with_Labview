@@ -1,6 +1,6 @@
 # LDR_arduino_with_Labview
 
-##Oluşturmuş olduğum proje özel seralarda kullanılan ışıklar için tasarlanmış bir devredir.
+## Oluşturmuş olduğum proje özel seralarda kullanılan ışıklar için tasarlanmış bir devredir.
 
 
 **Bu proje LDR vasıtasıyla ortamın ışığını analog değer olarak algılıyor.
